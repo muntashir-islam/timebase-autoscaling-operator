@@ -1,4 +1,4 @@
-# Timely-autoscaling-operator
+# Timedependent-autoscaling-operator
 Autoscaling depending on time
 
 ## Description
